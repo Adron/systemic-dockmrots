@@ -1,6 +1,6 @@
 # systemic-dockmrots
 
-[![Container Logo](./Logo.png)]()
+[![Container Logo](https://github.com/Adron/systemic-dockmrots/blob/master/Logo.png)]()
 
 [![License](https://img.shields.io/github/license/Adron/systemic-dockmrots.svg?style=flat-square)](https://github.com/Adron/systemic-dockmrots/blob/master/LICENSE)
 [![Maintenance](https://img.shields.io/maintenance/yes/2016.svg?style=flat-square)](#)
@@ -11,4 +11,4 @@
 
 Docker Storm image for development purposes.
 
-*Author(s):* [![Adron Hall](./AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
+*Author(s):* [![Adron Hall](https://github.com/Adron/systemic-dockmrots/blob/master/AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
