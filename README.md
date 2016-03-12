@@ -12,3 +12,5 @@
 Docker Storm image for development purposes.
 
 *Author(s):* [![Adron Hall](https://github.com/Adron/systemic-dockmrots/blob/master/AdronHall.png)](http://compositecode.com) @ **[Github](https://www.github.com/adron)** or **[Twitter](https://twitter.com/adron)**.
+
+**[Credits & Additional References](./references.md)**
